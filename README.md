@@ -1,1 +1,7 @@
-Built with JS, jQuery, AJAX, Ruby Sinatra, TV Guidebox API (quickly reaching it's request limit) http://binging.herokuapp.com
+# :tv: Binger :tv:
+
+Binger is a Ruby Sinatra and jQuery Javascript app that uses TV Guidebox's API
+
+## [View Demo and Documentation &rarr;](http://limhjosh.github.io)
+
+![](https://image.ibb.co/f8bLEa/binger.png)
